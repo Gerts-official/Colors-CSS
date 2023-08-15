@@ -1,0 +1,15 @@
+* {
+background-color: antiquewhite;
+}
+h1{
+    color:rgb(211, 18, 18); background-color: rgb(91, 153, 219);
+}
+h2 {
+    color: #000000; ;
+}
+*{
+    text-align: center;
+}
+#yellow{
+    background-color: yellow; color:red
+}
